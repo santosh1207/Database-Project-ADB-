@@ -1,0 +1,2 @@
+Top star business
+{u'_id': 1.0, u'value': {u'maxRating': 5.0, u'businessId': u'peTlb_-tmNQTZ3fz3Elieg'}}

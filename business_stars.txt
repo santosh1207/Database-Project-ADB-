@@ -1,0 +1,10 @@
+Count of businesses per stars
+{u'_id': 1.0, u'value': 1274.0}
+{u'_id': 1.5, u'value': 2190.0}
+{u'_id': 2.0, u'value': 4728.0}
+{u'_id': 2.5, u'value': 10422.0}
+{u'_id': 3.0, u'value': 16670.0}
+{u'_id': 3.5, u'value': 26342.0}
+{u'_id': 4.0, u'value': 26950.0}
+{u'_id': 4.5, u'value': 19084.0}
+{u'_id': 5.0, u'value': 14708.0}

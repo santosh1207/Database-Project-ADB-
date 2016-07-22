@@ -1,0 +1,784 @@
+Count of businesses per category
+{u'_id': u'Accessories', u'value': 1020.0}
+{u'_id': u'Accountants', u'value': 100.0}
+{u'_id': u'Active Life', u'value': 4940.0}
+{u'_id': u'Acupuncture', u'value': 134.0}
+{u'_id': u'Adult', u'value': 66.0}
+{u'_id': u'Adult Education', u'value': 38.0}
+{u'_id': u'Adult Entertainment', u'value': 208.0}
+{u'_id': u'Advertising', u'value': 26.0}
+{u'_id': u'Afghan', u'value': 26.0}
+{u'_id': u'African', u'value': 60.0}
+{u'_id': u'Airlines', u'value': 78.0}
+{u'_id': u'Airport Lounges', u'value': 14.0}
+{u'_id': u'Airport Shuttles', u'value': 152.0}
+{u'_id': u'Airports', u'value': 62.0}
+{u'_id': u'Allergists', u'value': 32.0}
+{u'_id': u'Amateur Sports Teams', u'value': 66.0}
+{u'_id': u'American (New)', u'value': 2988.0}
+{u'_id': u'American (Traditional)', u'value': 4226.0}
+{u'_id': u'Amusement Parks', u'value': 196.0}
+{u'_id': u'Anesthesiologists', u'value': 6.0}
+{u'_id': u'Animal Shelters', u'value': 86.0}
+{u'_id': u'Antiques', u'value': 324.0}
+{u'_id': u'Apartments', u'value': 938.0}
+{u'_id': u'Appliances', u'value': 300.0}
+{u'_id': u'Appliances & Repair', u'value': 222.0}
+{u'_id': u'Aquarium Services', u'value': 8.0}
+{u'_id': u'Aquariums', u'value': 26.0}
+{u'_id': u'Arabian', u'value': 16.0}
+{u'_id': u'Arcades', u'value': 114.0}
+{u'_id': u'Archery', u'value': 16.0}
+{u'_id': u'Architects', u'value': 4.0}
+{u'_id': u'Argentine', u'value': 16.0}
+{u'_id': u'Art Classes', u'value': 40.0}
+{u'_id': u'Art Galleries', u'value': 408.0}
+{u'_id': u'Art Schools', u'value': 62.0}
+{u'_id': u'Art Supplies', u'value': 170.0}
+{u'_id': u'Arts & Crafts', u'value': 984.0}
+{u'_id': u'Arts & Entertainment', u'value': 3892.0}
+{u'_id': u'Asian Fusion', u'value': 892.0}
+{u'_id': u'Auction Houses', u'value': 10.0}
+{u'_id': u'Audiologist', u'value': 6.0}
+{u'_id': u'Australian', u'value': 6.0}
+{u'_id': u'Austrian', u'value': 4.0}
+{u'_id': u'Auto Customization', u'value': 76.0}
+{u'_id': u'Auto Detailing', u'value': 278.0}
+{u'_id': u'Auto Glass Services', u'value': 310.0}
+{u'_id': u'Auto Loan Providers', u'value': 10.0}
+{u'_id': u'Auto Parts & Supplies', u'value': 668.0}
+{u'_id': u'Auto Repair', u'value': 2440.0}
+{u'_id': u'Automotive', u'value': 5930.0}
+{u'_id': u'Baby Gear & Furniture', u'value': 190.0}
+{u'_id': u'Baden', u'value': 14.0}
+{u'_id': u'Bagels', u'value': 370.0}
+{u'_id': u'Bail Bondsmen', u'value': 10.0}
+{u'_id': u'Bakeries', u'value': 1882.0}
+{u'_id': u'Bangladeshi', u'value': 6.0}
+{u'_id': u'Bankruptcy Law', u'value': 28.0}
+{u'_id': u'Banks & Credit Unions', u'value': 710.0}
+{u'_id': u'Barbeque', u'value': 954.0}
+{u'_id': u'Barbers', u'value': 758.0}
+{u'_id': u'Barre Classes', u'value': 60.0}
+{u'_id': u'Bars', u'value': 7256.0}
+{u'_id': u'Bartenders', u'value': 12.0}
+{u'_id': u'Bartending Schools', u'value': 2.0}
+{u'_id': u'Basketball Courts', u'value': 2.0}
+{u'_id': u'Basque', u'value': 34.0}
+{u'_id': u'Battery Stores', u'value': 28.0}
+{u'_id': u'Batting Cages', u'value': 4.0}
+{u'_id': u'Bavarian', u'value': 2.0}
+{u'_id': u'Beaches', u'value': 10.0}
+{u'_id': u'Beauty & Spas', u'value': 9476.0}
+{u'_id': u'Bed & Breakfast', u'value': 112.0}
+{u'_id': u'Beer Bar', u'value': 6.0}
+{u'_id': u'Beer Garden', u'value': 44.0}
+{u'_id': u'Beer Gardens', u'value': 12.0}
+{u'_id': u'Beer, Wine & Spirits', u'value': 930.0}
+{u'_id': u'Belgian', u'value': 32.0}
+{u'_id': u'Bespoke Clothing', u'value': 10.0}
+{u'_id': u'Beverage Store', u'value': 10.0}
+{u'_id': u'Bike Rentals', u'value': 126.0}
+{u'_id': u'Bike Repair/Maintenance', u'value': 40.0}
+{u'_id': u'Bike Sharing', u'value': 2.0}
+{u'_id': u'Bikes', u'value': 360.0}
+{u'_id': u'Bistros', u'value': 50.0}
+{u'_id': u'Blow Dry/Out Services', u'value': 116.0}
+{u'_id': u'Boat Charters', u'value': 18.0}
+{u'_id': u'Boat Dealers', u'value': 8.0}
+{u'_id': u'Boat Repair', u'value': 14.0}
+{u'_id': u'Boating', u'value': 62.0}
+{u'_id': u'Body Shops', u'value': 362.0}
+{u'_id': u'Books, Mags, Music & Video', u'value': 1010.0}
+{u'_id': u'Bookstores', u'value': 466.0}
+{u'_id': u'Boot Camps', u'value': 96.0}
+{u'_id': u'Botanical Gardens', u'value': 30.0}
+{u'_id': u'Bowling', u'value': 154.0}
+{u'_id': u'Boxing', u'value': 72.0}
+{u'_id': u'Brasseries', u'value': 126.0}
+{u'_id': u'Brazilian', u'value': 62.0}
+{u'_id': u'Breakfast & Brunch', u'value': 2232.0}
+{u'_id': u'Breweries', u'value': 264.0}
+{u'_id': u'Brewing Supplies', u'value': 12.0}
+{u'_id': u'Bridal', u'value': 192.0}
+{u'_id': u'British', u'value': 286.0}
+{u'_id': u'Bubble Tea', u'value': 72.0}
+{u'_id': u'Buddhist Temples', u'value': 10.0}
+{u'_id': u'Buffets', u'value': 840.0}
+{u'_id': u'Building Supplies', u'value': 190.0}
+{u'_id': u'Burgers', u'value': 2962.0}
+{u'_id': u'Burmese', u'value': 8.0}
+{u'_id': u'Bus Tours', u'value': 2.0}
+{u'_id': u'Buses', u'value': 6.0}
+{u'_id': u'Business Law', u'value': 24.0}
+{u'_id': u'Butcher', u'value': 66.0}
+{u'_id': u'CPR Classes', u'value': 6.0}
+{u'_id': u'CSA', u'value': 10.0}
+{u'_id': u'Cabaret', u'value': 2.0}
+{u'_id': u'Cabinetry', u'value': 28.0}
+{u'_id': u'Cafes', u'value': 1552.0}
+{u'_id': u'Cafeteria', u'value': 2.0}
+{u'_id': u'Cajun/Creole', u'value': 144.0}
+{u'_id': u'Cambodian', u'value': 16.0}
+{u'_id': u'Campgrounds', u'value': 14.0}
+{u'_id': u'Canadian (New)', u'value': 366.0}
+{u'_id': u'Candy Stores', u'value': 206.0}
+{u'_id': u'Cannabis Clinics', u'value': 32.0}
+{u'_id': u'Cantonese', u'value': 36.0}
+{u'_id': u'Car Dealers', u'value': 460.0}
+{u'_id': u'Car Rental', u'value': 352.0}
+{u'_id': u'Car Share Services', u'value': 6.0}
+{u'_id': u'Car Stereo Installation', u'value': 88.0}
+{u'_id': u'Car Wash', u'value': 646.0}
+{u'_id': u'Cardiologists', u'value': 20.0}
+{u'_id': u'Cards & Stationery', u'value': 218.0}
+{u'_id': u'Caribbean', u'value': 156.0}
+{u'_id': u'Career Counseling', u'value': 18.0}
+{u'_id': u'Carpet Cleaning', u'value': 290.0}
+{u'_id': u'Carpet Installation', u'value': 32.0}
+{u'_id': u'Carpeting', u'value': 78.0}
+{u'_id': u'Casinos', u'value': 450.0}
+{u'_id': u'Castles', u'value': 2.0}
+{u'_id': u'Caterers', u'value': 458.0}
+{u'_id': u'Challenge Courses', u'value': 14.0}
+{u'_id': u'Champagne Bars', u'value': 26.0}
+{u'_id': u'Check Cashing/Pay-day Loans', u'value': 16.0}
+{u'_id': u'Cheese Shops', u'value': 102.0}
+{u'_id': u'Cheesesteaks', u'value': 106.0}
+{u'_id': u'Chicken Wings', u'value': 1032.0}
+{u'_id': u'Child Care & Day Care', u'value': 186.0}
+{u'_id': u"Children's Clothing", u'value': 244.0}
+{u'_id': u'Chimney Sweeps', u'value': 6.0}
+{u'_id': u'Chinese', u'value': 2992.0}
+{u'_id': u'Chiropractors', u'value': 498.0}
+{u'_id': u'Chocolatiers & Shops', u'value': 272.0}
+{u'_id': u'Christmas Markets', u'value': 8.0}
+{u'_id': u'Churches', u'value': 246.0}
+{u'_id': u'Cinema', u'value': 356.0}
+{u'_id': u'Climbing', u'value': 28.0}
+{u'_id': u'Clowns', u'value': 6.0}
+{u'_id': u'Cocktail Bars', u'value': 252.0}
+{u'_id': u'Coffee & Tea', u'value': 3780.0}
+{u'_id': u'Coffee & Tea Supplies', u'value': 8.0}
+{u'_id': u'Coffeeshops', u'value': 24.0}
+{u'_id': u'College Counseling', u'value': 2.0}
+{u'_id': u'Colleges & Universities', u'value': 196.0}
+{u'_id': u'Colombian', u'value': 20.0}
+{u'_id': u'Comedy Clubs', u'value': 114.0}
+{u'_id': u'Comfort Food', u'value': 144.0}
+{u'_id': u'Comic Books', u'value': 128.0}
+{u'_id': u'Commercial Real Estate', u'value': 18.0}
+{u'_id': u'Community Service/Non-Profit', u'value': 214.0}
+{u'_id': u'Computers', u'value': 198.0}
+{u'_id': u'Contractors', u'value': 404.0}
+{u'_id': u'Convenience Stores', u'value': 1156.0}
+{u'_id': u'Cooking Classes', u'value': 6.0}
+{u'_id': u'Cooking Schools', u'value': 50.0}
+{u'_id': u'Cosmetic Dentists', u'value': 530.0}
+{u'_id': u'Cosmetic Surgeons', u'value': 90.0}
+{u'_id': u'Cosmetics & Beauty Supply', u'value': 1126.0}
+{u'_id': u'Cosmetology Schools', u'value': 54.0}
+{u'_id': u'Costumes', u'value': 112.0}
+{u'_id': u'Counseling & Mental Health', u'value': 58.0}
+{u'_id': u'Country Dance Halls', u'value': 10.0}
+{u'_id': u'Couriers & Delivery Services', u'value': 62.0}
+{u'_id': u'Courthouses', u'value': 6.0}
+{u'_id': u'Creperies', u'value': 114.0}
+{u'_id': u'Criminal Defense Law', u'value': 54.0}
+{u'_id': u'Cuban', u'value': 68.0}
+{u'_id': u'Cultural Center', u'value': 16.0}
+{u'_id': u'Cupcakes', u'value': 78.0}
+{u'_id': u'Currency Exchange', u'value': 4.0}
+{u'_id': u'Curry Sausage', u'value': 6.0}
+{u'_id': u'Customized Merchandise', u'value': 2.0}
+{u'_id': u'Cycling Classes', u'value': 18.0}
+{u'_id': u'Czech', u'value': 2.0}
+{u'_id': u'DJs', u'value': 70.0}
+{u'_id': u'DUI Law', u'value': 24.0}
+{u'_id': u'Damage Restoration', u'value': 40.0}
+{u'_id': u'Dance Clubs', u'value': 660.0}
+{u'_id': u'Dance Schools', u'value': 50.0}
+{u'_id': u'Dance Studios', u'value': 140.0}
+{u'_id': u'Data Recovery', u'value': 14.0}
+{u'_id': u'Day Camps', u'value': 2.0}
+{u'_id': u'Day Spas', u'value': 1038.0}
+{u'_id': u'Delicatessen', u'value': 28.0}
+{u'_id': u'Delis', u'value': 1298.0}
+{u'_id': u'Dentists', u'value': 1504.0}
+{u'_id': u'Department Stores', u'value': 1146.0}
+{u'_id': u'Departments of Motor Vehicles', u'value': 62.0}
+{u'_id': u'Dermatologists', u'value': 182.0}
+{u'_id': u'Desserts', u'value': 1152.0}
+{u'_id': u'Diagnostic Imaging', u'value': 70.0}
+{u'_id': u'Diagnostic Services', u'value': 146.0}
+{u'_id': u'Dim Sum', u'value': 98.0}
+{u'_id': u'Diners', u'value': 604.0}
+{u'_id': u'Disc Golf', u'value': 18.0}
+{u'_id': u'Discount Store', u'value': 328.0}
+{u'_id': u'Distilleries', u'value': 10.0}
+{u'_id': u'Dive Bars', u'value': 406.0}
+{u'_id': u'Diving', u'value': 26.0}
+{u'_id': u'Divorce & Family Law', u'value': 46.0}
+{u'_id': u'Do-It-Yourself Food', u'value': 80.0}
+{u'_id': u'Doctors', u'value': 2154.0}
+{u'_id': u'Dog Parks', u'value': 106.0}
+{u'_id': u'Dog Walkers', u'value': 114.0}
+{u'_id': u'Dominican', u'value': 8.0}
+{u'_id': u'Donairs', u'value': 2.0}
+{u'_id': u'Donuts', u'value': 486.0}
+{u'_id': u'Door Sales/Installation', u'value': 32.0}
+{u'_id': u'Doulas', u'value': 6.0}
+{u'_id': u'Driving Schools', u'value': 42.0}
+{u'_id': u'Drugstores', u'value': 1122.0}
+{u'_id': u'Dry Cleaning & Laundry', u'value': 850.0}
+{u'_id': u'Drywall Installation & Repair', u'value': 14.0}
+{u'_id': u'Ear Nose & Throat', u'value': 58.0}
+{u'_id': u'Eastern European', u'value': 2.0}
+{u'_id': u'Eastern German', u'value': 2.0}
+{u'_id': u'Education', u'value': 1012.0}
+{u'_id': u'Educational Services', u'value': 22.0}
+{u'_id': u'Egyptian', u'value': 8.0}
+{u'_id': u'Electricians', u'value': 138.0}
+{u'_id': u'Electronics', u'value': 542.0}
+{u'_id': u'Electronics Repair', u'value': 134.0}
+{u'_id': u'Elementary Schools', u'value': 138.0}
+{u'_id': u'Embroidery & Crochet', u'value': 22.0}
+{u'_id': u'Employment Agencies', u'value': 32.0}
+{u'_id': u'Employment Law', u'value': 8.0}
+{u'_id': u'Endocrinologists', u'value': 14.0}
+{u'_id': u'Endodontists', u'value': 52.0}
+{u'_id': u'Estate Planning Law', u'value': 22.0}
+{u'_id': u'Ethiopian', u'value': 50.0}
+{u'_id': u'Ethnic Food', u'value': 380.0}
+{u'_id': u'Ethnic Grocery', u'value': 6.0}
+{u'_id': u'Event Photography', u'value': 102.0}
+{u'_id': u'Event Planning & Services', u'value': 4934.0}
+{u'_id': u'Eyelash Service', u'value': 380.0}
+{u'_id': u'Eyewear & Opticians', u'value': 482.0}
+{u'_id': u'Fabric Stores', u'value': 134.0}
+{u'_id': u'Face Painting', u'value': 10.0}
+{u'_id': u'Falafel', u'value': 16.0}
+{u'_id': u'Family Practice', u'value': 304.0}
+{u'_id': u'Farmers Market', u'value': 260.0}
+{u'_id': u'Fashion', u'value': 5132.0}
+{u'_id': u'Fast Food', u'value': 4766.0}
+{u'_id': u'Fences & Gates', u'value': 22.0}
+{u'_id': u'Fertility', u'value': 22.0}
+{u'_id': u'Festivals', u'value': 318.0}
+{u'_id': u'Filipino', u'value': 122.0}
+{u'_id': u'Financial Advising', u'value': 58.0}
+{u'_id': u'Financial Services', u'value': 1088.0}
+{u'_id': u'Fire Protection Services', u'value': 2.0}
+{u'_id': u'Firearm Training', u'value': 2.0}
+{u'_id': u'Fireplace Services', u'value': 4.0}
+{u'_id': u'Firewood', u'value': 6.0}
+{u'_id': u'Fireworks', u'value': 6.0}
+{u'_id': u'First Aid Classes', u'value': 4.0}
+{u'_id': u'Fish & Chips', u'value': 198.0}
+{u'_id': u'Fishing', u'value': 4.0}
+{u'_id': u'Fitness & Instruction', u'value': 2136.0}
+{u'_id': u'Flea Markets', u'value': 14.0}
+{u'_id': u'Flight Instruction', u'value': 12.0}
+{u'_id': u'Flooring', u'value': 150.0}
+{u'_id': u'Florists', u'value': 466.0}
+{u'_id': u'Flowers', u'value': 4.0}
+{u'_id': u'Flowers & Gifts', u'value': 984.0}
+{u'_id': u'Fondue', u'value': 36.0}
+{u'_id': u'Food', u'value': 15724.0}
+{u'_id': u'Food Banks', u'value': 4.0}
+{u'_id': u'Food Court', u'value': 32.0}
+{u'_id': u'Food Delivery Services', u'value': 212.0}
+{u'_id': u'Food Stands', u'value': 148.0}
+{u'_id': u'Food Tours', u'value': 6.0}
+{u'_id': u'Food Trucks', u'value': 356.0}
+{u'_id': u'Formal Wear', u'value': 86.0}
+{u'_id': u'Framing', u'value': 56.0}
+{u'_id': u'French', u'value': 866.0}
+{u'_id': u'Fruits & Veggies', u'value': 112.0}
+{u'_id': u'Funeral Services & Cemeteries', u'value': 56.0}
+{u'_id': u'Furniture Repair', u'value': 2.0}
+{u'_id': u'Furniture Reupholstery', u'value': 48.0}
+{u'_id': u'Furniture Stores', u'value': 794.0}
+{u'_id': u'Garage Door Services', u'value': 90.0}
+{u'_id': u'Gardeners', u'value': 54.0}
+{u'_id': u'Gas & Service Stations', u'value': 824.0}
+{u'_id': u'Gastroenterologist', u'value': 14.0}
+{u'_id': u'Gastropubs', u'value': 278.0}
+{u'_id': u'Gay Bars', u'value': 186.0}
+{u'_id': u'Gelato', u'value': 70.0}
+{u'_id': u'General Dentistry', u'value': 992.0}
+{u'_id': u'General Festivals', u'value': 4.0}
+{u'_id': u'General Litigation', u'value': 28.0}
+{u'_id': u'German', u'value': 240.0}
+{u'_id': u'Gift Shops', u'value': 184.0}
+{u'_id': u'Glass & Mirrors', u'value': 22.0}
+{u'_id': u'Gluten-Free', u'value': 312.0}
+{u'_id': u'Go Karts', u'value': 22.0}
+{u'_id': u'Gold Buyers', u'value': 8.0}
+{u'_id': u'Golf', u'value': 430.0}
+{u'_id': u'Golf Equipment', u'value': 30.0}
+{u'_id': u'Golf Equipment Shops', u'value': 2.0}
+{u'_id': u'Graphic Design', u'value': 166.0}
+{u'_id': u'Greek', u'value': 726.0}
+{u'_id': u'Grocery', u'value': 2466.0}
+{u'_id': u'Guest Houses', u'value': 14.0}
+{u'_id': u'Gun/Rifle Ranges', u'value': 80.0}
+{u'_id': u'Guns & Ammo', u'value': 136.0}
+{u'_id': u'Gutter Services', u'value': 2.0}
+{u'_id': u'Gymnastics', u'value': 30.0}
+{u'_id': u'Gyms', u'value': 1120.0}
+{u'_id': u'Hair Extensions', u'value': 232.0}
+{u'_id': u'Hair Removal', u'value': 878.0}
+{u'_id': u'Hair Salons', u'value': 2776.0}
+{u'_id': u'Hair Stylists', u'value': 414.0}
+{u'_id': u'Haitian', u'value': 2.0}
+{u'_id': u'Halal', u'value': 60.0}
+{u'_id': u'Handyman', u'value': 110.0}
+{u'_id': u'Hang Gliding', u'value': 2.0}
+{u'_id': u'Hardware Stores', u'value': 422.0}
+{u'_id': u'Hats', u'value': 18.0}
+{u'_id': u'Hawaiian', u'value': 244.0}
+{u'_id': u'Health & Medical', u'value': 6426.0}
+{u'_id': u'Health Markets', u'value': 320.0}
+{u'_id': u'Health Retreats', u'value': 4.0}
+{u'_id': u'Hearing Aid Providers', u'value': 6.0}
+{u'_id': u'Heating & Air Conditioning/HVAC', u'value': 468.0}
+{u'_id': u'Herbs & Spices', u'value': 34.0}
+{u'_id': u'High Fidelity Audio Equipment', u'value': 2.0}
+{u'_id': u'Hiking', u'value': 152.0}
+{u'_id': u'Himalayan/Nepalese', u'value': 28.0}
+{u'_id': u'Hindu Temples', u'value': 10.0}
+{u'_id': u'Hobby Shops', u'value': 394.0}
+{u'_id': u'Home & Garden', u'value': 2346.0}
+{u'_id': u'Home Cleaning', u'value': 310.0}
+{u'_id': u'Home Decor', u'value': 608.0}
+{u'_id': u'Home Health Care', u'value': 28.0}
+{u'_id': u'Home Inspectors', u'value': 46.0}
+{u'_id': u'Home Organization', u'value': 30.0}
+{u'_id': u'Home Services', u'value': 5706.0}
+{u'_id': u'Home Staging', u'value': 2.0}
+{u'_id': u'Home Theatre Installation', u'value': 48.0}
+{u'_id': u'Home Window Tinting', u'value': 46.0}
+{u'_id': u'Hookah Bars', u'value': 146.0}
+{u'_id': u'Horse Boarding', u'value': 8.0}
+{u'_id': u'Horse Racing', u'value': 4.0}
+{u'_id': u'Horseback Riding', u'value': 72.0}
+{u'_id': u'Hospice', u'value': 2.0}
+{u'_id': u'Hospitals', u'value': 196.0}
+{u'_id': u'Hostels', u'value': 66.0}
+{u'_id': u'Hot Air Balloons', u'value': 12.0}
+{u'_id': u'Hot Dogs', u'value': 446.0}
+{u'_id': u'Hot Pot', u'value': 10.0}
+{u'_id': u'Hot Tub & Pool', u'value': 122.0}
+{u'_id': u'Hotels', u'value': 2614.0}
+{u'_id': u'Hotels & Travel', u'value': 4262.0}
+{u'_id': u'Hungarian', u'value': 4.0}
+{u'_id': u'Hypnosis/Hypnotherapy', u'value': 14.0}
+{u'_id': u'IT Services & Computer Repair', u'value': 348.0}
+{u'_id': u'Iberian', u'value': 2.0}
+{u'_id': u'Ice Cream & Frozen Yogurt', u'value': 1734.0}
+{u'_id': u'Immigration Law', u'value': 4.0}
+{u'_id': u'Indian', u'value': 752.0}
+{u'_id': u'Indonesian', u'value': 16.0}
+{u'_id': u'Insulation Installation', u'value': 6.0}
+{u'_id': u'Insurance', u'value': 214.0}
+{u'_id': u'Interior Design', u'value': 140.0}
+{u'_id': u'Internal Medicine', u'value': 122.0}
+{u'_id': u'International', u'value': 14.0}
+{u'_id': u'Internet Cafes', u'value': 50.0}
+{u'_id': u'Internet Service Providers', u'value': 224.0}
+{u'_id': u'Investing', u'value': 20.0}
+{u'_id': u'Irish', u'value': 154.0}
+{u'_id': u'Irish Pub', u'value': 22.0}
+{u'_id': u'Irrigation', u'value': 20.0}
+{u'_id': u'Italian', u'value': 3266.0}
+{u'_id': u'Izakaya', u'value': 2.0}
+{u'_id': u'Japanese', u'value': 1492.0}
+{u'_id': u'Jazz & Blues', u'value': 70.0}
+{u'_id': u'Jewelry', u'value': 908.0}
+{u'_id': u'Jewelry Repair', u'value': 38.0}
+{u'_id': u'Juice Bars & Smoothies', u'value': 650.0}
+{u'_id': u'Junk Removal & Hauling', u'value': 34.0}
+{u'_id': u'Karaoke', u'value': 200.0}
+{u'_id': u'Kebab', u'value': 64.0}
+{u'_id': u'Keys & Locksmiths', u'value': 140.0}
+{u'_id': u'Kids Activities', u'value': 42.0}
+{u'_id': u'Kitchen & Bath', u'value': 238.0}
+{u'_id': u'Knitting Supplies', u'value': 92.0}
+{u'_id': u'Korean', u'value': 372.0}
+{u'_id': u'Kosher', u'value': 48.0}
+{u'_id': u'Laboratory Testing', u'value': 66.0}
+{u'_id': u'Lactation Services', u'value': 14.0}
+{u'_id': u'Lakes', u'value': 30.0}
+{u'_id': u'Landmarks & Historical Buildings', u'value': 186.0}
+{u'_id': u'Landscape Architects', u'value': 30.0}
+{u'_id': u'Landscaping', u'value': 280.0}
+{u'_id': u'Language Schools', u'value': 12.0}
+{u'_id': u'Laotian', u'value': 6.0}
+{u'_id': u'Laser Eye Surgery/Lasik', u'value': 48.0}
+{u'_id': u'Laser Hair Removal', u'value': 128.0}
+{u'_id': u'Laser Tag', u'value': 8.0}
+{u'_id': u'Latin American', u'value': 302.0}
+{u'_id': u'Lawyers', u'value': 202.0}
+{u'_id': u'Leather Goods', u'value': 98.0}
+{u'_id': u'Lebanese', u'value': 48.0}
+{u'_id': u'Legal Services', u'value': 4.0}
+{u'_id': u'Leisure Centers', u'value': 36.0}
+{u'_id': u'Libraries', u'value': 202.0}
+{u'_id': u'Lice Services', u'value': 4.0}
+{u'_id': u'Life Coach', u'value': 52.0}
+{u'_id': u'Lighting Fixtures & Equipment', u'value': 76.0}
+{u'_id': u'Limos', u'value': 140.0}
+{u'_id': u'Lingerie', u'value': 168.0}
+{u'_id': u'Live/Raw Food', u'value': 30.0}
+{u'_id': u'Local Flavor', u'value': 408.0}
+{u'_id': u'Local Services', u'value': 4288.0}
+{u'_id': u'Lounges', u'value': 1072.0}
+{u'_id': u'Luggage', u'value': 40.0}
+{u'_id': u'Magicians', u'value': 18.0}
+{u'_id': u'Mailbox Centers', u'value': 4.0}
+{u'_id': u'Makeup Artists', u'value': 322.0}
+{u'_id': u'Malaysian', u'value': 20.0}
+{u'_id': u'Marketing', u'value': 100.0}
+{u'_id': u'Martial Arts', u'value': 196.0}
+{u'_id': u'Masonry/Concrete', u'value': 22.0}
+{u'_id': u'Mass Media', u'value': 192.0}
+{u'_id': u'Massage', u'value': 978.0}
+{u'_id': u'Massage Schools', u'value': 12.0}
+{u'_id': u'Massage Therapy', u'value': 304.0}
+{u'_id': u'Matchmakers', u'value': 6.0}
+{u'_id': u'Maternity Wear', u'value': 30.0}
+{u'_id': u'Mattresses', u'value': 182.0}
+{u'_id': u'Meat Shops', u'value': 208.0}
+{u'_id': u'Medical Centers', u'value': 454.0}
+{u'_id': u'Medical Spas', u'value': 264.0}
+{u'_id': u'Medical Supplies', u'value': 22.0}
+{u'_id': u'Medical Transportation', u'value': 2.0}
+{u'_id': u'Meditation Centers', u'value': 6.0}
+{u'_id': u'Mediterranean', u'value': 980.0}
+{u'_id': u"Men's Clothing", u'value': 988.0}
+{u'_id': u"Men's Hair Salons", u'value': 186.0}
+{u'_id': u'Metal Fabricators', u'value': 4.0}
+{u'_id': u'Mexican', u'value': 4416.0}
+{u'_id': u'Middle Eastern', u'value': 418.0}
+{u'_id': u'Middle Schools & High Schools', u'value': 82.0}
+{u'_id': u'Midwives', u'value': 36.0}
+{u'_id': u'Mini Golf', u'value': 44.0}
+{u'_id': u'Mobile Phone Repair', u'value': 114.0}
+{u'_id': u'Mobile Phones', u'value': 574.0}
+{u'_id': u'Modern European', u'value': 100.0}
+{u'_id': u'Mongolian', u'value': 52.0}
+{u'_id': u'Moroccan', u'value': 36.0}
+{u'_id': u'Mortgage Brokers', u'value': 216.0}
+{u'_id': u'Mosques', u'value': 2.0}
+{u'_id': u'Motorcycle Dealers', u'value': 154.0}
+{u'_id': u'Motorcycle Gear', u'value': 8.0}
+{u'_id': u'Motorcycle Rental', u'value': 10.0}
+{u'_id': u'Motorcycle Repair', u'value': 90.0}
+{u'_id': u'Mountain Biking', u'value': 26.0}
+{u'_id': u'Movers', u'value': 262.0}
+{u'_id': u'Museums', u'value': 314.0}
+{u'_id': u'Music & DVDs', u'value': 228.0}
+{u'_id': u'Music Venues', u'value': 686.0}
+{u'_id': u'Musical Instrument Services', u'value': 10.0}
+{u'_id': u'Musical Instruments & Teachers', u'value': 184.0}
+{u'_id': u'Musicians', u'value': 10.0}
+{u'_id': u'Nail Salons', u'value': 2512.0}
+{u'_id': u'Nanny Services', u'value': 4.0}
+{u'_id': u'Naturopathic/Holistic', u'value': 86.0}
+{u'_id': u'Neurologist', u'value': 20.0}
+{u'_id': u'Newspapers & Magazines', u'value': 54.0}
+{u'_id': u'Nightlife', u'value': 8680.0}
+{u'_id': u'Notaries', u'value': 264.0}
+{u'_id': u'Nurseries & Gardening', u'value': 312.0}
+{u'_id': u'Nutritionists', u'value': 102.0}
+{u'_id': u'Obstetricians & Gynecologists', u'value': 258.0}
+{u'_id': u'Occupational Therapy', u'value': 12.0}
+{u'_id': u'Office Cleaning', u'value': 80.0}
+{u'_id': u'Office Equipment', u'value': 232.0}
+{u'_id': u'Officiants', u'value': 8.0}
+{u'_id': u'Oil Change Stations', u'value': 866.0}
+{u'_id': u'Oncologist', u'value': 10.0}
+{u'_id': u'Opera & Ballet', u'value': 14.0}
+{u'_id': u'Ophthalmologists', u'value': 174.0}
+{u'_id': u'Optometrists', u'value': 648.0}
+{u'_id': u'Oral Surgeons', u'value': 132.0}
+{u'_id': u'Organic Stores', u'value': 20.0}
+{u'_id': u'Oriental', u'value': 2.0}
+{u'_id': u'Orthodontists', u'value': 226.0}
+{u'_id': u'Orthopedists', u'value': 100.0}
+{u'_id': u'Orthotics', u'value': 14.0}
+{u'_id': u'Osteopathic Physicians', u'value': 6.0}
+{u'_id': u'Outdoor Gear', u'value': 190.0}
+{u'_id': u'Outlet Stores', u'value': 142.0}
+{u'_id': u'Paddleboarding', u'value': 6.0}
+{u'_id': u'Paintball', u'value': 22.0}
+{u'_id': u'Painters', u'value': 90.0}
+{u'_id': u'Pakistani', u'value': 176.0}
+{u'_id': u'Parking', u'value': 56.0}
+{u'_id': u'Parks', u'value': 704.0}
+{u'_id': u'Party & Event Planning', u'value': 420.0}
+{u'_id': u'Party Bus Rentals', u'value': 22.0}
+{u'_id': u'Party Equipment Rentals', u'value': 54.0}
+{u'_id': u'Party Supplies', u'value': 120.0}
+{u'_id': u'Pasta Shops', u'value': 6.0}
+{u'_id': u'Patisserie/Cake Shop', u'value': 18.0}
+{u'_id': u'Pawn Shops', u'value': 94.0}
+{u'_id': u'Payroll Services', u'value': 12.0}
+{u'_id': u'Pediatric Dentists', u'value': 178.0}
+{u'_id': u'Pediatricians', u'value': 188.0}
+{u'_id': u'Performing Arts', u'value': 802.0}
+{u'_id': u'Periodontists', u'value': 50.0}
+{u'_id': u'Permanent Makeup', u'value': 44.0}
+{u'_id': u'Persian/Iranian', u'value': 78.0}
+{u'_id': u'Personal Assistants', u'value': 12.0}
+{u'_id': u'Personal Chefs', u'value': 12.0}
+{u'_id': u'Personal Injury Law', u'value': 80.0}
+{u'_id': u'Personal Shopping', u'value': 20.0}
+{u'_id': u'Peruvian', u'value': 92.0}
+{u'_id': u'Pest Control', u'value': 234.0}
+{u'_id': u'Pet Adoption', u'value': 14.0}
+{u'_id': u'Pet Boarding/Pet Sitting', u'value': 510.0}
+{u'_id': u'Pet Groomers', u'value': 746.0}
+{u'_id': u'Pet Services', u'value': 1268.0}
+{u'_id': u'Pet Stores', u'value': 638.0}
+{u'_id': u'Pet Training', u'value': 256.0}
+{u'_id': u'Pets', u'value': 2306.0}
+{u'_id': u'Pharmacy', u'value': 20.0}
+{u'_id': u'Photo Booth Rentals', u'value': 32.0}
+{u'_id': u'Photographers', u'value': 330.0}
+{u'_id': u'Photography Stores & Services', u'value': 82.0}
+{u'_id': u'Physical Therapy', u'value': 238.0}
+{u'_id': u'Piano Bars', u'value': 8.0}
+{u'_id': u'Piano Services', u'value': 8.0}
+{u'_id': u'Piercing', u'value': 110.0}
+{u'_id': u'Pilates', u'value': 134.0}
+{u'_id': u'Pita', u'value': 2.0}
+{u'_id': u'Pizza', u'value': 4446.0}
+{u'_id': u'Playgrounds', u'value': 144.0}
+{u'_id': u'Plumbing', u'value': 378.0}
+{u'_id': u'Plus Size Fashion', u'value': 22.0}
+{u'_id': u'Podiatrists', u'value': 60.0}
+{u'_id': u'Pole Dancing Classes', u'value': 2.0}
+{u'_id': u'Police Departments', u'value': 28.0}
+{u'_id': u'Polish', u'value': 40.0}
+{u'_id': u'Pool & Hot Tub Service', u'value': 26.0}
+{u'_id': u'Pool Cleaners', u'value': 184.0}
+{u'_id': u'Pool Halls', u'value': 122.0}
+{u'_id': u'Pop-up Shops', u'value': 2.0}
+{u'_id': u'Portuguese', u'value': 116.0}
+{u'_id': u'Post Offices', u'value': 214.0}
+{u'_id': u'Poutineries', u'value': 26.0}
+{u'_id': u'Powder Coating', u'value': 6.0}
+{u'_id': u'Preschools', u'value': 192.0}
+{u'_id': u'Pressure Washers', u'value': 18.0}
+{u'_id': u'Pretzels', u'value': 38.0}
+{u'_id': u'Print Media', u'value': 66.0}
+{u'_id': u'Printing Services', u'value': 598.0}
+{u'_id': u'Private Investigation', u'value': 10.0}
+{u'_id': u'Private Tutors', u'value': 14.0}
+{u'_id': u'Professional Services', u'value': 1280.0}
+{u'_id': u'Professional Sports Teams', u'value': 46.0}
+{u'_id': u'Propane', u'value': 10.0}
+{u'_id': u'Property Management', u'value': 208.0}
+{u'_id': u'Prosthetics', u'value': 4.0}
+{u'_id': u'Psychiatrists', u'value': 8.0}
+{u'_id': u'Psychics & Astrologers', u'value': 34.0}
+{u'_id': u'Psychologists', u'value': 2.0}
+{u'_id': u'Pub Food', u'value': 4.0}
+{u'_id': u'Public Plazas', u'value': 2.0}
+{u'_id': u'Public Services & Government', u'value': 852.0}
+{u'_id': u'Public Transportation', u'value': 106.0}
+{u'_id': u'Pubs', u'value': 1568.0}
+{u'_id': u'Pulmonologist', u'value': 2.0}
+{u'_id': u'RV Dealers', u'value': 32.0}
+{u'_id': u'RV Parks', u'value': 16.0}
+{u'_id': u'RV Rental', u'value': 20.0}
+{u'_id': u'RV Repair', u'value': 8.0}
+{u'_id': u'Race Tracks', u'value': 14.0}
+{u'_id': u'Radio Stations', u'value': 82.0}
+{u'_id': u'Radiologists', u'value': 34.0}
+{u'_id': u'Rafting/Kayaking', u'value': 22.0}
+{u'_id': u'Ramen', u'value': 36.0}
+{u'_id': u'Real Estate', u'value': 1700.0}
+{u'_id': u'Real Estate Agents', u'value': 220.0}
+{u'_id': u'Real Estate Law', u'value': 16.0}
+{u'_id': u'Real Estate Services', u'value': 276.0}
+{u'_id': u'Recording & Rehearsal Studios', u'value': 12.0}
+{u'_id': u'Recreation Centers', u'value': 110.0}
+{u'_id': u'Recycling Center', u'value': 24.0}
+{u'_id': u'Refinishing Services', u'value': 8.0}
+{u'_id': u'Reflexology', u'value': 86.0}
+{u'_id': u'Registration Services', u'value': 12.0}
+{u'_id': u'Rehabilitation Center', u'value': 26.0}
+{u'_id': u'Reiki', u'value': 26.0}
+{u'_id': u'Religious Organizations', u'value': 334.0}
+{u'_id': u'Religious Schools', u'value': 2.0}
+{u'_id': u'Resorts', u'value': 130.0}
+{u'_id': u'Restaurants', u'value': 43784.0}
+{u'_id': u'Retirement Homes', u'value': 20.0}
+{u'_id': u'Rheumatologists', u'value': 6.0}
+{u'_id': u'Rock Climbing', u'value': 8.0}
+{u'_id': u'Rolfing', u'value': 4.0}
+{u'_id': u'Roofing', u'value': 70.0}
+{u'_id': u'Rugs', u'value': 6.0}
+{u'_id': u'Russian', u'value': 32.0}
+{u'_id': u'Salad', u'value': 456.0}
+{u'_id': u'Salvadoran', u'value': 28.0}
+{u'_id': u'Sandwiches', u'value': 3962.0}
+{u'_id': u'Saunas', u'value': 4.0}
+{u'_id': u'Scandinavian', u'value': 18.0}
+{u'_id': u'Scottish', u'value': 60.0}
+{u'_id': u'Screen Printing', u'value': 16.0}
+{u'_id': u'Screen Printing/T-Shirt Printing', u'value': 52.0}
+{u'_id': u'Scuba Diving', u'value': 14.0}
+{u'_id': u'Seafood', u'value': 1108.0}
+{u'_id': u'Seafood Markets', u'value': 104.0}
+{u'_id': u'Security Services', u'value': 6.0}
+{u'_id': u'Security Systems', u'value': 90.0}
+{u'_id': u'Self Storage', u'value': 256.0}
+{u'_id': u'Septic Services', u'value': 4.0}
+{u'_id': u'Serbo Croatian', u'value': 4.0}
+{u'_id': u'Session Photography', u'value': 126.0}
+{u'_id': u'Sewing & Alterations', u'value': 356.0}
+{u'_id': u'Shades & Blinds', u'value': 66.0}
+{u'_id': u'Shanghainese', u'value': 10.0}
+{u'_id': u'Shared Office Spaces', u'value': 8.0}
+{u'_id': u'Shaved Ice', u'value': 132.0}
+{u'_id': u'Shipping Centers', u'value': 432.0}
+{u'_id': u'Shoe Repair', u'value': 158.0}
+{u'_id': u'Shoe Stores', u'value': 662.0}
+{u'_id': u'Shopping', u'value': 17838.0}
+{u'_id': u'Shopping Centers', u'value': 308.0}
+{u'_id': u'Shredding Services', u'value': 4.0}
+{u'_id': u'Shutters', u'value': 8.0}
+{u'_id': u'Signmaking', u'value': 124.0}
+{u'_id': u'Singaporean', u'value': 4.0}
+{u'_id': u'Skate Parks', u'value': 20.0}
+{u'_id': u'Skating Rinks', u'value': 56.0}
+{u'_id': u'Ski Resorts', u'value': 4.0}
+{u'_id': u'Skin Care', u'value': 950.0}
+{u'_id': u'Skydiving', u'value': 6.0}
+{u'_id': u'Smog Check Stations', u'value': 136.0}
+{u'_id': u'Soccer', u'value': 28.0}
+{u'_id': u'Social Clubs', u'value': 48.0}
+{u'_id': u'Solar Installation', u'value': 42.0}
+{u'_id': u'Soul Food', u'value': 156.0}
+{u'_id': u'Soup', u'value': 180.0}
+{u'_id': u'Southern', u'value': 268.0}
+{u'_id': u'Souvenir Shops', u'value': 10.0}
+{u'_id': u'Spanish', u'value': 138.0}
+{u'_id': u'Special Education', u'value': 14.0}
+{u'_id': u'Specialty Food', u'value': 2002.0}
+{u'_id': u'Specialty Schools', u'value': 424.0}
+{u'_id': u'Speech Therapists', u'value': 14.0}
+{u'_id': u'Sporting Goods', u'value': 1170.0}
+{u'_id': u'Sports Bars', u'value': 1426.0}
+{u'_id': u'Sports Clubs', u'value': 108.0}
+{u'_id': u'Sports Medicine', u'value': 68.0}
+{u'_id': u'Sports Wear', u'value': 376.0}
+{u'_id': u'Spray Tanning', u'value': 70.0}
+{u'_id': u'Stadiums & Arenas', u'value': 146.0}
+{u'_id': u'Steakhouses', u'value': 1108.0}
+{u'_id': u'Street Art', u'value': 2.0}
+{u'_id': u'Street Vendors', u'value': 172.0}
+{u'_id': u'Sugaring', u'value': 2.0}
+{u'_id': u'Summer Camps', u'value': 34.0}
+{u'_id': u'Surf Shop', u'value': 2.0}
+{u'_id': u'Surfing', u'value': 4.0}
+{u'_id': u'Surgeons', u'value': 10.0}
+{u'_id': u'Sushi Bars', u'value': 1342.0}
+{u'_id': u'Swimming Lessons/Schools', u'value': 32.0}
+{u'_id': u'Swimming Pools', u'value': 214.0}
+{u'_id': u'Swimwear', u'value': 44.0}
+{u'_id': u'Swiss Food', u'value': 2.0}
+{u'_id': u'Synagogues', u'value': 8.0}
+{u'_id': u'Szechuan', u'value': 52.0}
+{u'_id': u'Tai Chi', u'value': 8.0}
+{u'_id': u'Taiwanese', u'value': 72.0}
+{u'_id': u'Talent Agencies', u'value': 8.0}
+{u'_id': u'Tanning', u'value': 420.0}
+{u'_id': u'Tanning Beds', u'value': 14.0}
+{u'_id': u'Tapas Bars', u'value': 186.0}
+{u'_id': u'Tapas/Small Plates', u'value': 172.0}
+{u'_id': u'Tattoo', u'value': 302.0}
+{u'_id': u'Tattoo Removal', u'value': 28.0}
+{u'_id': u'Tax Services', u'value': 94.0}
+{u'_id': u'Taxis', u'value': 156.0}
+{u'_id': u'Tea Rooms', u'value': 148.0}
+{u'_id': u'Telecommunications', u'value': 8.0}
+{u'_id': u'Television Service Providers', u'value': 96.0}
+{u'_id': u'Television Stations', u'value': 32.0}
+{u'_id': u'Tennis', u'value': 50.0}
+{u'_id': u'Teppanyaki', u'value': 4.0}
+{u'_id': u'Test Preparation', u'value': 6.0}
+{u'_id': u'Tex-Mex', u'value': 500.0}
+{u'_id': u'Thai', u'value': 944.0}
+{u'_id': u'Thrift Stores', u'value': 486.0}
+{u'_id': u'Ticket Sales', u'value': 36.0}
+{u'_id': u'Tires', u'value': 974.0}
+{u'_id': u'Tobacco Shops', u'value': 390.0}
+{u'_id': u'Tours', u'value': 358.0}
+{u'_id': u'Towing', u'value': 130.0}
+{u'_id': u'Toy Stores', u'value': 302.0}
+{u'_id': u'Traditional Chinese Medicine', u'value': 30.0}
+{u'_id': u'Train Stations', u'value': 16.0}
+{u'_id': u'Trainers', u'value': 706.0}
+{u'_id': u'Trains', u'value': 4.0}
+{u'_id': u'Trampoline Parks', u'value': 14.0}
+{u'_id': u'Transportation', u'value': 542.0}
+{u'_id': u'Travel Services', u'value': 100.0}
+{u'_id': u'Tree Services', u'value': 74.0}
+{u'_id': u'Trinidadian', u'value': 4.0}
+{u'_id': u'Trophy Shops', u'value': 8.0}
+{u'_id': u'Truck Rental', u'value': 92.0}
+{u'_id': u'Turkish', u'value': 128.0}
+{u'_id': u'Tutoring Centers', u'value': 12.0}
+{u'_id': u'Ukrainian', u'value': 2.0}
+{u'_id': u'Uniforms', u'value': 34.0}
+{u'_id': u'University Housing', u'value': 18.0}
+{u'_id': u'Urgent Care', u'value': 280.0}
+{u'_id': u'Urologists', u'value': 10.0}
+{u'_id': u'Used Bookstore', u'value': 2.0}
+{u'_id': u'Used, Vintage & Consignment', u'value': 438.0}
+{u'_id': u'Utilities', u'value': 18.0}
+{u'_id': u'Uzbek', u'value': 4.0}
+{u'_id': u'Vacation Rental Agents', u'value': 4.0}
+{u'_id': u'Vacation Rentals', u'value': 22.0}
+{u'_id': u'Valet Services', u'value': 2.0}
+{u'_id': u'Vape Shops', u'value': 252.0}
+{u'_id': u'Vegan', u'value': 252.0}
+{u'_id': u'Vegetarian', u'value': 488.0}
+{u'_id': u'Venezuelan', u'value': 8.0}
+{u'_id': u'Venues & Event Spaces', u'value': 794.0}
+{u'_id': u'Veterinarians', u'value': 802.0}
+{u'_id': u'Video Game Stores', u'value': 18.0}
+{u'_id': u'Video/Film Production', u'value': 42.0}
+{u'_id': u'Videographers', u'value': 36.0}
+{u'_id': u'Videos & Video Game Rental', u'value': 194.0}
+{u'_id': u'Vietnamese', u'value': 566.0}
+{u'_id': u'Vinyl Records', u'value': 76.0}
+{u'_id': u'Vocational & Technical School', u'value': 18.0}
+{u'_id': u'Walk-in Clinics', u'value': 2.0}
+{u'_id': u'Walking Tours', u'value': 2.0}
+{u'_id': u'Watch Repair', u'value': 66.0}
+{u'_id': u'Watches', u'value': 150.0}
+{u'_id': u'Water Delivery', u'value': 12.0}
+{u'_id': u'Waxing', u'value': 168.0}
+{u'_id': u'Web Design', u'value': 102.0}
+{u'_id': u'Wedding Planning', u'value': 212.0}
+{u'_id': u'Weight Loss Centers', u'value': 156.0}
+{u'_id': u'Wheel & Rim Repair', u'value': 152.0}
+{u'_id': u'Wholesale Stores', u'value': 138.0}
+{u'_id': u'Wigs', u'value': 24.0}
+{u'_id': u'Window Washing', u'value': 62.0}
+{u'_id': u'Windows Installation', u'value': 104.0}
+{u'_id': u'Windshield Installation & Repair', u'value': 128.0}
+{u'_id': u'Wine Bars', u'value': 472.0}
+{u'_id': u'Wine Tours', u'value': 4.0}
+{u'_id': u'Wineries', u'value': 62.0}
+{u'_id': u'Wok', u'value': 2.0}
+{u'_id': u"Women's Clothing", u'value': 1832.0}
+{u'_id': u'Yelp Events', u'value': 66.0}
+{u'_id': u'Yoga', u'value': 412.0}
+{u'_id': u'Zoos', u'value': 36.0}
